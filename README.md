@@ -1,4 +1,6 @@
 # ESPRIT HR
+[![DOI](https://zenodo.org/badge/395125019.svg)](https://zenodo.org/badge/latestdoi/395125019)
+
 Heart rate detection using the ESPRIT algorithm.
 
 ## Repository
